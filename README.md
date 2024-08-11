@@ -1,6 +1,12 @@
-# 👋 Eduardo Caro Valverde [{ ecarov }]
+# 👋 नमस्ते (Namaste), Nice to see you. 
+#  Eduardo Caro Valverde [{ ecarov }]
+
 ## 🎮 About Me:
 Hello! 👋 I'm Eduardo Caro Valverde, a passionate mathematics, statistical, nature and how to use technology for the better benefit of everyone.
+
+[{ ecarov }]
+
+Frontend Architect, Web Developer, Consultant, Open Source Enthusiast from Chihuahua (México).
 
 ## Academic Degrees : Master's degree in Science and Engineering, [{ M.Sc. Manuel Eduardo Caro Valverde ISC }]
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9wbTBjejR4aHoweXRlanphYjRnZnY1OG5pYzJ0Y2R0N2dndHdvdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oz8xPRvQsPcI6V5dK/giphy.webp" width="100"/>
@@ -14,7 +20,7 @@ Hello! 👋 I'm Eduardo Caro Valverde, a passionate mathematics, statistical, na
 - 😄 Pronouns: ... #010101
 - ⚡
 - 
-# 🌐 Socials:
+# 🌐 Where to find me :
 
   ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
   ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
@@ -25,7 +31,7 @@ Hello! 👋 I'm Eduardo Caro Valverde, a passionate mathematics, statistical, na
   ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 
 
-# ⚔️ Tech Stack:
+# ⚔️ Tech Stack => Languajes and Tools
 
   
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
