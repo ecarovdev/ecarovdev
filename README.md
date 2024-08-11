@@ -14,7 +14,7 @@ Hello! 👋 I'm Eduardo Caro Valverde, a passionate mathematics, statistical, na
 - 😄 Pronouns: ... #010101
 - ⚡
 - 
-🌐 Socials:
+# 🌐 Socials:
 
   ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
   ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
@@ -119,7 +119,7 @@ Hello! 👋 I'm Eduardo Caro Valverde, a passionate mathematics, statistical, na
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </div>
 
-📈 GitHub Stats:
+# 📈 GitHub Stats:
 
 <!---
 ecarovdev/ecarovdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
