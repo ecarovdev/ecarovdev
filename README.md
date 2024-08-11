@@ -211,8 +211,8 @@ If things goes well, this section should automatically be replaced by a list of 
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
-
-<div align="center"><img src="https://github.com/ecarovdev/ecarovdev/blob/main/IMG-SVG/t3.jpg" /></div>  
+  
+<div align="center"><img src="https://github.com/ecarovdev/ecarovdev/blob/main/IMG-SVG/t3.jpg" width="500" /></div>  
 
 <br/>  
 
