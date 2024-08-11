@@ -2,7 +2,7 @@
 ## 🎮 About Me:
 Hello! 👋 I'm Eduardo Caro Valverde, a passionate mathematics, statistical, nature and how to use technology for the better benefit of everyone.
 
-## Academic Degrees : Master of Sciences e Ingeniería, [ M.Sc. Manuel Eduardo Caro Valverde ISC ]
+## Academic Degrees : Master's degree in Science and Engineering, [{ M.Sc. Manuel Eduardo Caro Valverde ISC }]
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9wbTBjejR4aHoweXRlanphYjRnZnY1OG5pYzJ0Y2R0N2dndHdvdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oz8xPRvQsPcI6V5dK/giphy.webp" width="100"/>
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmtsMXVpYW40ZjZ1MjVwdGo0MGxuZnJ2M3U5YTFoOHRnY3lkaTFjdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cKKilkePjBAh0tbmBU/giphy.webp" width="200"/>
   
