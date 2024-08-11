@@ -1,4 +1,4 @@
-# Hola, Bienvenido, mi nombre es Eduardo Caro Valverde 👋
+👋 # Eduardo Caro Valverde [{ ecarov } ]
 # 🎮 About Me:
 Hello! 👋 I'm Eduardo Caro Valverde, a passionate mathematics, statistical, nature and how to use technology for the better benefit of everyone.
 
